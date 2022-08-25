@@ -1,5 +1,5 @@
 # Risc-V-Single-Cycle-VHDL
-[Top-Level Design](singlecycle.png)
+![Top-Level Design](singlecycle.png)
 
 This project contains a Single-Cycle RISC-V processor core written in VHDL. The processor core is a part of a field study in the Laboratory of Microelectronics and Embedded Systems, Institut Teknologi Sepuluh Nopember. Prior works include the Computer Organization and Design textbook by Patterson and Hennessy, and [this](https://github.com/merledu/RISC-V-single-cycle-core-Logisim) Single-Cycle Logisim RISC-V Processor by Zeeshan Rafique.
 
