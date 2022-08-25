@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Aug 26 03:45:20 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : RISC-V-Single-Cycle-VHDL
+Top-level Entity Name : top
+Family : Cyclone IV E
+Total logic elements : 3,664
+    Total combinational functions : 2,577
+    Dedicated logic registers : 1,442
+Total registers : 1442
+Total pins : 17
+Total virtual pins : 0
+Total memory bits : 16,384
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
